@@ -1,2 +1,2 @@
 # portfolio
-my portfolio xd
+My portfolio contains my skills, interests, and my contact information. Additionally it contains my capabilities. 
